@@ -2,7 +2,7 @@
 
 # NAME: Jorge Bustos
 # DATE: 3/9/2026
-# BRIEF DESCRIPTION:  
+# BRIEF DESCRIPTION: Firewall traffic analyzer project that determines risk by port and data transfer size 
 
 
 
